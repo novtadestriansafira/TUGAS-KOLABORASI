@@ -12,7 +12,7 @@ dataSiswa = []
 def Menu () :  
     os.system ('cls'); 
     print("Menu Aplikasi Data Siswa") 
-    print("-----------------------------------------") 
+    print("------------------------------------------") 
     print("1. Input Data Siswa") 
     print("2. Tampilkan Data Siswa") 
     print("3. Update Data Siswa") 
